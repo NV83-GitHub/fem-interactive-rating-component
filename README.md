@@ -8,3 +8,5 @@ What i learned in this one:
     <li>How to make a circle with a number in the center, with a combination of width, height, padding, border-radius, text-align and the magic ingredient line-height </li>
     <li>Handling events for multiple elements, this tutorial was really usefull https://www.youtube.com/watch?v=Xwq1Hj1DyDM</li>
 </ul>
+
+The css and html could use a bit of refactoring but it's globally clean.
